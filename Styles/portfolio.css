@@ -114,5 +114,12 @@ line-height: 30px;
     justify-content: space-around;
 }
 .extra-info{
-    text-align: center;
+    text-align: center;     
+}
+#what-i-do{
+    padding: 30px 150px;
+
+}
+.skills-container{
+    display: flex;
 }
