@@ -85,13 +85,17 @@ nav a{
     max-width: 500px;
 }
 /* main section styles */
+main{
+    max-width: 1140px;
+    margin: 0px auto;
+}
 
 /* about section styles */
 .about{
    padding: 130px;
    border-radius: 10px;
 background: #FFF8F3;
-margin: 130px 0px;
+margin: 130px 0px ;
 }
 .section-discription{
     color:  #757575);
@@ -104,4 +108,11 @@ line-height: 30px;
     text-align: center;
     font-size: 35px;
      font-weight: 700;
+}
+.about-extra{
+    display: flex;
+    justify-content: space-around;
+}
+.extra-info{
+    text-align: center;
 }
